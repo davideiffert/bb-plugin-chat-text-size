@@ -1,5 +1,7 @@
 # Chat Text Size
 
+*For those of us old enough to want bigger chat text, but not a giant sidebar.*
+
 Command + in BB makes everything bigger: the sidebar, the header, every menu.
 Chat Text Size makes only the conversation bigger, so long answers are easier
 to read and the rest of BB stays where you left it.
